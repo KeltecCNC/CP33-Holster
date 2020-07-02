@@ -4,7 +4,7 @@ A simple printable holster that can be attached to most standard 3X3 hole holste
 Designed for right handed use. Simply mirror the file for a left side mountable version.
 
 	DISCLAIMER:
-By using any of these files, you agree to the following:
+	By using any of these files, you agree to the following:
 
 The files author and Kel-Tec CNC is released from any and all liability
 
