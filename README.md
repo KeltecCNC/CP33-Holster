@@ -12,5 +12,5 @@ USE AT YOUR OWN RISK!!! If you print this you become the manufacturer and are so
 
 
 	INSTRUCTIONS:
-Print in NylonX or similar fiber re-enforced nylon for best durability. Muzzle end down, 0.15mm layer thickness. No supports should be required for most printers.
+Print in NylonX or similar fiber re-enforced nylon for best durability. Muzzle end down, 0.1 to 0.15mm layer thickness. No supports should be required for most printers.
 Add a rubber spacer and sex bolts to the single screw hole away from the 6 mounting holes to adjust the retention. A "kydex holster hardware kit" is suggested.
