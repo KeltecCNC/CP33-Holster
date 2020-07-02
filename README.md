@@ -13,4 +13,4 @@ USE AT YOUR OWN RISK!!! If you print this you become the manufacturer and are so
 
 	INSTRUCTIONS:
 Print in NylonX or similar fiber re-enforced nylon for best durability. Muzzle end down. No supports should be required for most printers.
-Add a rubber spacer and sex bolts to the single screw hol away from the 6 mounting holes to adjust the retention. A "kydex holster hardware kit" is suggested.
+Add a rubber spacer and sex bolts to the single screw hole away from the 6 mounting holes to adjust the retention. A "kydex holster hardware kit" is suggested.
