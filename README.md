@@ -7,7 +7,9 @@ Designed for right handed use. Simply mirror the file for a left side mountable 
 By using any of these files, you agree to the following:
 
 The files author and Kel-Tec CNC is released from any and all liability
+
 No warranties, express or implied, are provided
+
 USE AT YOUR OWN RISK!!! If you print this you become the manufacturer and are soley responsible for its safe and legal use.
 
 
