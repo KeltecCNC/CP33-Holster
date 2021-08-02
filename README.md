@@ -1,5 +1,7 @@
 # CP33-Holster
-	DESCRIPTION:
+Approved for Release By George Kellgren 2021-8-2 TSO.
+
+        DESCRIPTION:
 A simple printable holster that can be attached to most standard 3X3 hole holster hardware (Like Tek-Lok™)
 Designed for right handed use. Simply mirror the file for a left side mountable version.
 
